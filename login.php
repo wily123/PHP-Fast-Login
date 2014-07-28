@@ -28,15 +28,17 @@ echo "
 body{
 text-aling:center;
 margin:30px auto;
-background:#444;
+background:#606060;
 }
 .login input {
-font-size:17pt;
-border:1px solid #5f5;
-display:inline-block;
-border-radius:4px;
-margin:4px;
-padding:10px;
+font-size: 17pt;
+border: 1px solid #FFF;
+display: inline-block;
+border-radius: 4px;
+margin: 4px;
+padding: 10px;
+color: #FFF;
+background: none repeat scroll 0% 0% #0C94D4;
 }
 </style>
 <title>Login</title>
