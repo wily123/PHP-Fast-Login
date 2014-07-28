@@ -2,7 +2,7 @@
 ob_start();
 
 // SET THE PASSWORD
-$password= "Gjeloshi";
+$password= "admin";
 
 
 
