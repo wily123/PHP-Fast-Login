@@ -1,4 +1,4 @@
-PHP-Login proctect your pages with one Single File
+PHP-Login protect your pages with one Single File
 ---------
 
 Is a php login script that protect your pages, it's fast and simple to install on all pages you want.
