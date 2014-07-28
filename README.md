@@ -1,7 +1,7 @@
-PHP-Login In one Single File
+PHP-Login pages proctect with one Single File
 ---------
 
-Is a php script really fast and simple to install on all pages you want.
+Is a php login script that protect your pages, it's fast and simple to install on all pages you want.
 
 
 
