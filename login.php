@@ -39,6 +39,7 @@ margin:4px;
 padding:10px;
 }
 </style>
+<title>Login</title>
 <body><center>
 <form action=''  class='login' method='post'><input type='password' id='pasi' placeholder='Password' name='pasi' value=''><input  width='auto' type='submit' value='Login'>
 </form></center></body>";
